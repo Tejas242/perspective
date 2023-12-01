@@ -78,7 +78,7 @@ export default function Grid() {
   }, [observer]);
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div id="explore" className="container mx-auto px-4 py-8">
       <MasonryGrid artworks={artworks?.data || []} />
       <div ref={sentinelRef}></div>
       {loading && <p>Loading...</p>}

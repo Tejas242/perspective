@@ -12,7 +12,7 @@ export default function CTA() {
         <p className="text-gray-600">Explore art from your own perspective</p>
       </div>
       <button className="btn group flex items-center bg-transparent p-2 px-6 text-xl tracking-widest text-white">
-        <a href="#generate">
+        <a href="#explore">
           <span className="relative pr-4 text-gray-600 pb-1 after:transition-transform after:duration-500 after:ease-out after:absolute after:bottom-0 after:left-0 after:block after:h-[2px] after:w-full after:origin-bottom-right after:scale-x-0 after:bg-blue-500 after:content-[''] after:group-hover:origin-bottom-left after:group-hover:scale-x-100">
             Explore
           </span>
