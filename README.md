@@ -2,8 +2,7 @@
 
 Welcome to Perspective - An online art museum! This project is a simple web application that displays the art from the Art Institute of Chicago API, in a clean, minimal and nice layout.
 
-
-![Demo](./public/perspective-sc.mp4)
+https://github.com/Tejas242/perspective/assets/59790915/d9ac958d-bc58-47a0-990e-be81b80ee400
 
 ## Features
 
