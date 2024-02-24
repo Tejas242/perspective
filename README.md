@@ -1,4 +1,4 @@
-# QuoteMe
+# Perspective
 
 Welcome to Perspective - An online art museum! This project is a simple web application that displays the art from the Art Institute of Chicago API, in a clean, minimal and nice layout.
 
@@ -11,7 +11,7 @@ https://github.com/Tejas242/perspective/assets/59790915/d9ac958d-bc58-47a0-990e-
 - Random artworks every time with name and artist
 - Infinite Scroll
 
-## Quotable API
+## ARTIC API
 
 This project uses the Art Institute of Chicago API to fetch a diverse collection of art. The API provides a simple and easy-to-use endpoint for accessing a wide range of art collection from various atists. For more information about the Quotable API and its usage, check out the [ARTIC API DOCS](https://api.artic.edu/docs/#quick-start).
 
